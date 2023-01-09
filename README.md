@@ -16,5 +16,5 @@ Donovan提出的优化模型，将目标函数做了近似处理，优化模型�
 ![image](https://user-images.githubusercontent.com/57510093/211392493-b6070387-bdb9-46dd-9d27-b9028d955cda.png) 
 ### Microscopic_siting_quarcombine.m
 认为多机尾流效应损失为单机尾流效应损失的二次和，优化模型：  
-![image](https://user-images.githubusercontent.com/57510093/211392341-d4891f8b-c5c0-4398-a9a0-eaab6defccd2.png) 
+![image](https://user-images.githubusercontent.com/57510093/211392341-d4891f8b-c5c0-4398-a9a0-eaab6defccd2.png)  
 其他的txt文件为运算结果的储存文件
